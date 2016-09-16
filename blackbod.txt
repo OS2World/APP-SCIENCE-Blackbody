@@ -1,0 +1,30 @@
+
+From millerr@mdot.state.mi.us Mon Oct  6 01:25:30 1997
+Date: Tue, 30 Sep 1997 09:23:45 -0400
+From: Robert Miller <millerr@mdot.state.mi.us>
+To: spider@seds.org
+Subject: Re: Blackbody update
+
+Dear Mr. Frommert,
+
+A week or so ago, I sent an update to my Blackbody curve program
+which is posted on the SEDS web site. Thanks for posting that. It
+appears  you may not have received the update, so (I hope I'm not being
+redundant and wasting your time) here is a new version which has the
+graphing portion rewritten so it can plot blackbody curves upwards
+from one microdegree. The source code is attached (feel free to
+distribute it, if it will encourage more OS/2 programming).
+
+Thanks for making an icon for the program. I really appreciate your
+interest and support of science and OS/2!
+
+Sincerely,
+Robert Miller (millerr@mdot.state.mi.us)
+
+  [Part 2, Application/OCTET-STREAM (Name: "BLACKBOD.EXE")  27KB]
+  [Unable to print this part]
+
+
+  [Part 3, Application/OCTET-STREAM (Name: "BLACKBOD.PAS")  39KB]
+  [Unable to print this part]
+
